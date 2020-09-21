@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta name="description" content="Este es un pequeño detalle con acriño">
+<meta name="description" content="Este es un pequeño detalle con mucho cariño">
 <meta name="keywords" content="pequeño detalle, detalle, cariño">
 
 <title>HB Gru! </title>
