@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="shortcut icon" href="corazon.ico"
+<link rel="shortcut icon" href="corazon.ico">
 <meta name="description" content="Este es un pequeño detalle con mucho cariño">
 <meta name="keywords" content="pequeño detalle, detalle, cariño">
 
