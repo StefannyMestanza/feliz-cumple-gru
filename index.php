@@ -1,11 +1,11 @@
 <html>
 <head>
-<meta name="description" content="Este es un pequeño detalle con acriño">
-<meta name="keywords" content="pequeño detalle, detalle, cariño">
+<meta name="description" content="Este es un pequeÃ±o detalle con acriÃ±o">
+<meta name="keywords" content="pequeÃ±o detalle, detalle, cariÃ±o">
 
 <title>HB Gru! </title>
 </head>
-<body bgcolor="white"> <center><font color="red" face="broadway" size="6">¡FELIZ CUMPLEAÑOS! </font></center>
+<body bgcolor="white"> <center><font color="red" face="broadway" size="6">Â¡FELIZ CUMPLEAÃ‘OS! </font></center>
 <p> </p>
 <center><img src="1.jpg"> </center>
 <p> </p>
