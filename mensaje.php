@@ -1,5 +1,6 @@
 <html>
 <head>
+<link rel="shortcut icon" href="corazon.ico">
 <title>HB Gru! </title>
 </head>
 <body bgcolor="white"> 
@@ -13,7 +14,7 @@
 <tr>
 <td>
  
-<center><p>Hay tantas cosas que quisiera decirte ahora mismo, pero me limitaré a esto: </p></center>
+<center><p font-family: "Malgun Gothic">Hay tantas cosas que quisiera decirte ahora mismo, pero me limitaré a esto: </p></center>
 <center><p>Cuida mucho a los que más amas, sigue adelante, cómete el mundo entero, yo sé que si puedes, me lo has demostrado, estaré orgullosa siempre. </p></center>
 <center><p>¡Éxitos! </p></center>
 <center><p>Atte: S.M </p></center></td>
