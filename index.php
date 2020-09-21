@@ -10,7 +10,7 @@
 <center><img src="1.jpg"> </center>
 <p> </p>
 <center><img src="gato.jpg"> </center>
-<a href="mensaje.html">
+<a href="mensaje.php">
 <center><img src="mensaje.jpg"> </center></a>
 <p> </p>
 <p><center>Click en el mensaje... </center></p>
