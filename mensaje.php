@@ -13,12 +13,12 @@
 <p> </p>
 <tr>
 <td>
- 
-<center><p font-family: "Malgun Gothic">Hay tantas cosas que quisiera decirte ahora mismo, pero me limitaré a esto: </p></center>
+<font font-family: "Malgun Gothic" >
+<center><p>Hay tantas cosas que quisiera decirte ahora mismo, pero me limitaré a esto:</p></center>
 <center><p>Cuida mucho a los que más amas, sigue adelante, cómete el mundo entero, yo sé que si puedes, me lo has demostrado, estaré orgullosa siempre. </p></center>
 <center><p>¡Éxitos! </p></center>
 <center><p>Atte: S.M </p></center></td>
-
+ </font>
 </tr>
 <p> </p>
 </table></center>
