@@ -15,9 +15,9 @@
 <td>
 
 <center><p><font face="Malgun Gothic">Hay tantas cosas que quisiera decirte ahora mismo, pero me limitaré a esto:</font></p></center>
-<center><p>Cuida mucho a los que más amas, sigue adelante, cómete el mundo entero, yo sé que si puedes, me lo has demostrado, estaré orgullosa siempre. </p></center>
-<center><p>¡Éxitos! </p></center>
-<center><p>Atte: S.M </p></center></td>
+<center><p><font face="Malgun Gothic">Cuida mucho a los que más amas, sigue adelante, cómete el mundo entero, yo sé que si puedes, me lo has demostrado, estaré orgullosa siempre. </font></p></center>
+<center><p><font face="Malgun Gothic">¡Éxitos!</font></p></center>
+<center><p><font face="Malgun Gothic">Atte: S.M </font></p></center></td>
  
  
 </tr>
